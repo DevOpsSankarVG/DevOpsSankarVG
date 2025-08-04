@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevOpsSankarVG
 - 👀 I’m interested in designing,building and monitoring infrastructure and services that need to be highly available and reliable. 
 - 🌱 I’m currently learning automation to configure the infrastructure and services,  CI /CD pipe line integration  , Kafka and redis database , intergration of Terraform and Ansilbe  .
-- 💞️ I’m looking to collaborate on working with intergration of Terraform and Ansile
+- 💞️ I’m looking to collaborate on working with intergration of Terraform and Ansible
 - 📫 How to reach me ...
 
 <!---
